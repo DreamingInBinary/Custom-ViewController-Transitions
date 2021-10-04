@@ -1,3 +1,6 @@
+# Custom View Controller Transitions
+This project explains and shows how to make custom view controller transitions in the most simple way possible. Each example builds off of each other.
+
 ## Objects you make
 
 1. Transitioning delegate (Required)
